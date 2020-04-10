@@ -30,6 +30,21 @@
 * [Cyphor](https://cyphor.net/details) - Cyphor is more than just an obfuscator. Cyphor is the best, fastest, and most reliable obfuscation protection tool to work with.
 * [SmartAssembly](https://www.red-gate.com/products/dotnet-development/smartassembly/) - Protect your .NET code and IP with SmartAssembly
 * [Themida](https://www.oreans.com/Themida.php) - Advanced Windows software protection system
- 
+* [Noisette](https://github.com/XenocodeRCE/Noisette-Obfuscator) - An Obfuscator for .NET assembly 
+* [Obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
+* [Lime-Crypter](https://github.com/NYAN-x-CAT/Lime-Crypter) - An obfuscation tool for .Net + Native files.
+* [AsStrongAsFuck](https://github.com/Charterino/AsStrongAsFuck) - A console obfuscator for .NET assemblies.
+* [Self-Morphing C# Binary](https://github.com/bytecode77/self-morphing-csharp-binary) - C# binary that mutates its own code, encrypts and obfuscates itself on runtime
+* [vot4cs](https://github.com/tum-i22/vot4cs) - A Virtualization Obfuscation Tool for C# program
+* [ModPhuserEx](https://github.com/0xFireball/ModPhuserEx) - A .NET protector supporting .NET Core forked from the discontinued ConfuserEx
+* [Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) - Z00bfuscator is the simple, open-source, cross-platform obfuscator for .NET Assemblies built on .NET Core 
+* [Panda-Obfuscator](https://github.com/barotyson/Panda-Obfuscator) - PandaObfuscator an simple Obfuscator, free, OpenSource for .Net Applications 
+* [Rzy Protector](https://github.com/Riziebtw/RzyProtector) - Rzy Protector | A public confuserex modded
+* [SkiDzEX](https://github.com/NotPrab/SkiDzEX) - A modded version of ConfuserEx | SkiDzEx
+* [Trinity-ConfuserEx-Mod](https://github.com/TrinityNET/Trinity-ConfuserEx-Mod) - A modded ConfuserEx created by Mighty, Bed and Centos. 
+* [DarksProtector](https://github.com/BillytheButcher/DarksProtector) - DarksProtector 2.0 | ConfuserEx Modded 
+* [PEunion](https://github.com/bytecode77/pe-union) - PEunion (Binder, Crypter & Downloader)
+
+
 
  
