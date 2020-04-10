@@ -48,6 +48,15 @@
 * [Isolated](https://github.com/Sato-Isolated/Isolated) - .NET Obfuscator & Protector
 * [Goldfuscator MIT license](https://github.com/AnErrupTion/Goldfuscator) - A fork of the original SimpleObfuscator project, made for training. 
 * [LoGic.NET](https://github.com/AnErrupTion/LoGiC.NET) - A more advanced free and open .NET obfuscator using dnlib.
+* [Enigma Protector](https://enigmaprotector.com/en/about.html) - A professional system for licensing and protecting
+executable files for Windows.
+* [IntelliLock](https://www.eziriz.com/intellilock.htm) - IntelliLock is an advanced 100% managed solution for licensing controls and applications. While .NET Reactor offers a licensing system based on native code protection, IntelliLock opts a 100% managed way to apply licensing and protection features. This way single files can be produced without the need of additional files. 
+* [Dotfuscator](https://www.preemptive.com/products/dotfuscator/overview) - Dotfucator's .NET obfuscation and runtime checks have protected thousands of apps for over a decade.
+* [Spices](https://www.9rays.net/Category/55-spicesnet-obfuscator.aspx) - Spices.Net Obfuscator is a .Net code obfuscation, protection and optimization tool that offers the wide range of technologies to completely protect your .Net code and secure your data.
+* [BitHelmet](https://bithelmet.software.informer.com/) - BitHelmet obfuscator protects your .NET Portable Executables 
+* [Yano](https://yano.informer.com/) - Yano is an advanced obfuscator for Microsoft .NET applications 
+* [Neo ConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx) - Updated ConfuserEX, an open-source, free obfuscator for .NET applications
+* [NetShields](https://discord.gg/baVPenN) - A really strong & recommended for .NET Obfuscator
 
 
 
