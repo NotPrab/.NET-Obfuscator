@@ -44,6 +44,7 @@
 * [Trinity-ConfuserEx-Mod](https://github.com/TrinityNET/Trinity-ConfuserEx-Mod) - A modded ConfuserEx created by Mighty, Bed and Centos. 
 * [DarksProtector](https://github.com/BillytheButcher/DarksProtector) - DarksProtector 2.0 | ConfuserEx Modded 
 * [PEunion](https://github.com/bytecode77/pe-union) - PEunion (Binder, Crypter & Downloader)
+* [Guardship-.NET-Protector](https://github.com/Rustemsoft/Guardship-.NET-Protector) - Guardship .NET Protector is a development software that helps to protect the executable file of .NET application by making its code unreadable for MSIL disassemblers.
 
 
 
