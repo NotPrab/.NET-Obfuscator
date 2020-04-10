@@ -45,6 +45,10 @@
 * [DarksProtector](https://github.com/BillytheButcher/DarksProtector) - DarksProtector 2.0 | ConfuserEx Modded 
 * [PEunion](https://github.com/bytecode77/pe-union) - PEunion (Binder, Crypter & Downloader)
 * [Guardship-.NET-Protector](https://github.com/Rustemsoft/Guardship-.NET-Protector) - Guardship .NET Protector is a development software that helps to protect the executable file of .NET application by making its code unreadable for MSIL disassemblers.
+* [Isolated](https://github.com/Sato-Isolated/Isolated) - .NET Obfuscator & Protector
+* [Goldfuscator MIT license](https://github.com/AnErrupTion/Goldfuscator) - A fork of the original SimpleObfuscator project, made for training. 
+* [LoGic.NET](https://github.com/AnErrupTion/LoGiC.NET) - A more advanced free and open .NET obfuscator using dnlib.
+
 
 
 
