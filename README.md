@@ -57,8 +57,21 @@ executable files for Windows.
 * [Yano](https://yano.informer.com/) - Yano is an advanced obfuscator for Microsoft .NET applications 
 * [Neo ConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx) - Updated ConfuserEX, an open-source, free obfuscator for .NET applications
 * [NetShields](https://discord.gg/baVPenN) - A really strong & recommended for .NET Obfuscator
-
-
-
-
- 
+* [Demeanor](http://www.wiseowl.com/products/products.aspx) - Demeanor for.NET protects your intellectual property by making it extremely difficult to reverse engineer your .NET applications.
+* [Deploylx](http://xheo.com/products/code-protection) - DeployLX CodeVeil was the first to offer .NET assembly encryption. Now with advanced runtime injection, API redirects and just-in-time decryption, protected applications are never decrypted in memory.
+* [Semantic Designs](http://www.semdesigns.com/products/obfuscators/csharpobfuscator.html) - The C# Obfuscator tool scrambles C# source code to make it very difficult to understand or reverse-engineer 
+* [Aldaray Rummage Obfuscator](https://www.aldaray.com/) - Tie your code into knots and make the hackers cry
+* [ElecKey](https://www.sciensoft.com/) - ElecKey is a suite of software and tools that provide a complete solution for software security, copy protection, and license management. It allows you to protect your software against piracy, tampering, and reverse-engineering, as well as gain full control over secure software distribution and licenses.
+* [MancoSoftware](http://www.mancosoftware.com/) - Manco .NET Licensing System is the powerful licensing and copy protection software for .NET Windows Forms, WPF, WCF, WWF and ASP.NET applications, controls and components.
+* [Obfuscator.NET 2009](http://www.macrobject.com/en/obfuscator/index.htm) - Protect your .NET assembly
+* [Orange Heap obfuscator](http://orangeheap.blogspot.com/) - free and efficient way to protect your .NET software
+* [PC Guard](http://www.sofpro.com/pc-guard) - Professional software protection and licensing system for .NET framework (x86, AnyCpu, x64) and Windows 32bit and 64 bit applications.
+* [PV Logiciels dotNet Protector](http://www.pvlog.com/) - PV Logiciels dotNet Protector is a powerful .NET code protection system that prevents your assemblies from being decompiled.
+* [SharpObfuscator](https://archive.codeplex.com/?p=sharpobfuscator) - It is a Software Protection tool, designed to help .NET developers efficiently protect their software. It will obfuscate and protect your .NET code, optimize your .NET assembly for better deployment, minimize distribution size, increase performance & add powerful post-deployment debugging capabilities.
+* [.netshrink](https://www.pelock.com/products/netshrink) - netshrink is an exe packer aka executable compressor, application password protector and virtual DLL binder for Windows & Linux .NET applications.
+* [String Encrypt](https://www.pelock.com/products/string-encrypt) - Encrypt strings in source code & files using randomly generated algorithms, and generate the corresponding unique decryption code for any supported programming language.
+* [BoxedApp](https://www.boxedapp.com/) - Import and virtualize ActiveX, Flash and .Net runtime • Rich SDK for developers • Create custom packers • Supports both 32-bit and 64-bit applications • Virtual file system and registry
+* [Dotpack](https://github.com/daeken/Dotpack/) - Extreme (TM) binary packer for .NET 
+* [MPRESS](http://www.matcode.com/) - Free high-performance executable packer for PE32/PE32+/.NET executable formats!
+* [NETZ Compressor](https://github.com/madebits/msnet-netz-compressor) - 2004 .NETZ compresses Microsoft .NET executables 
+* [IntelliProtector](https://intelliprotector.com/Products/Net-Obfuscator/Features) - IntelliProtector .Net Obfuscator is excellent Free tool for your IntelliProtector .Net projects.
