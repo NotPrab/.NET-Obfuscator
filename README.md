@@ -75,3 +75,4 @@ executable files for Windows.
 * [MPRESS](http://www.matcode.com/) - Free high-performance executable packer for PE32/PE32+/.NET executable formats!
 * [NETZ Compressor](https://github.com/madebits/msnet-netz-compressor) - 2004 .NETZ compresses Microsoft .NET executables 
 * [IntelliProtector](https://intelliprotector.com/Products/Net-Obfuscator/Features) - IntelliProtector .Net Obfuscator is excellent Free tool for your IntelliProtector .Net projects.
+* [DotNetSafer](https://dotnetsafer.com/) - Increase the security of your software, reduce costs and save time with the tools that dotnetsafer offers you to protect your intellectual property and guarantee the integrity of your .NET and .NET Core applications.
