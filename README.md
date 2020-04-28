@@ -76,3 +76,19 @@ executable files for Windows.
 * [NETZ Compressor](https://github.com/madebits/msnet-netz-compressor) - 2004 .NETZ compresses Microsoft .NET executables 
 * [IntelliProtector](https://intelliprotector.com/Products/Net-Obfuscator/Features) - IntelliProtector .Net Obfuscator is excellent Free tool for your IntelliProtector .Net projects.
 * [DotNetSafer](https://dotnetsafer.com/) - Increase the security of your software, reduce costs and save time with the tools that dotnetsafer offers you to protect your intellectual property and guarantee the integrity of your .NET and .NET Core applications.
+* [VaporObfusactor](https://github.com/call-042PE/VaporObfuscator) - VaporObfuscator is an obfuscator for .net made with dnlib 
+* [MdCrypt](https://github.com/wwh1004/Mdcrypt) - [WIP] A next-generation protector for .NET applications (.NET Framework, .NET Core, and more) 
+* [AtomicProtector](https://discordapp.com/invite/SU8nHPM) - Antidecompiler,Anti-Decompiler,Antidecompile,Anti-ildasm,ildasm,ConfuserEx,obfuscate code,code encryption,string encryption,control flow,How To,Tutorial,obfuscator,free obfuscator,confuserex,hack,protector,.net protector,anti-source,anti-skids,c#,obfuscator,.net,security,code,programming,dotnet,il,confuser,confuserex,trinity obfuscator,trinity
+* [OctopusObfuscator](https://github.com/Alxs009/OctopusObfuscator) - Basic obfuscator for .NET
+* [cil-examining](https://github.com/mira-ta/cil-examining) - A .NET Framework (.NET Core in the future) obfuscator. Owner is currently out sick thus working on project is stopped.
+* [lookatme](https://github.com/pjc0247/lookatme) - NET Obfuscator for Studying purpose.
+* [Obfuscord](https://github.com/TobitoFatitoNulled/Obfuscord) - Obfuscates A file Through Discord as a Bot using Discord.Net Api
+* [SpecterObfuscator](https://github.com/xXeptioN/SpecterObfuscator/tree/master/Obfuscator) - This Application will obfuscate your .NET Assembly
+* [Denvelope](https://github.com/TWVyY3VyaW8K/Denvelope) - NET Obfuscator
+* [Arya](https://github.com/HarmJ0y/Arya) - Arya is a simple obfuscator for .NET binaries.
+* [.NET-Obfuscator](https://github.com/NightBaron/.NET-Obfuscator) - Simple .net obfuscator using Mono Cecil
+* [dotNetObfuscator](https://github.com/baskfx/dotNetObfuscator) - Обфускатор строки для C#
+* [DotNetPatcher(Source Code)](https://github.com/mwsrc/DotNetObfuscator) - DotNetObfuscator
+* [DarkFuscator](https://github.com/isigov/.NET-Obfuscator) - Code obfuscator for .NET framework programs. Outdated in 2016, but was very functional in 2010/2011.Uses the Mono.Cecil library for interacting with .NET assemblies. 
+* [obfuscatus](https://github.com/stschake/obfuscatus) - a .NET obfuscator based on mono cecil
+
