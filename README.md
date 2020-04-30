@@ -5,6 +5,7 @@
 ![.NET](https://www.mindphp.com/images/knowledge/IT/Microsoft_.NET_logo.png)
 
 * [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
+* [ConfuserEx 2](https://github.com/mkaring/ConfuserEx) - Updated ConfuserEx (by mkaring), an open-source, free obfuscator for .NET applications.
 * [NET Reactor](https://www.eziriz.com/) - NET Reactor is a powerful .NET code protection and software licensing system which completely stops any decompiling.
 * [Agile](https://secureteam.net/acode-features-detailed)- Agile.NET, Powerful Code Protection, Obfuscation, and Licensing Solution for your .NET Apps
 * [AppFuscator](https://appfuscator.com/) - Inteligence algorithm provide your application powerful protection! 
