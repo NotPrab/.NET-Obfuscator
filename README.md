@@ -92,4 +92,4 @@ executable files for Windows.
 * [DotNetPatcher(Source Code)](https://github.com/mwsrc/DotNetObfuscator) - DotNetObfuscator
 * [DarkFuscator](https://github.com/isigov/.NET-Obfuscator) - Code obfuscator for .NET framework programs. Outdated in 2016, but was very functional in 2010/2011.Uses the Mono.Cecil library for interacting with .NET assemblies. 
 * [obfuscatus](https://github.com/stschake/obfuscatus) - a .NET obfuscator based on mono cecil
-
+* [NetFuscate](http://netfuscate.com/) - NETFuscate is a .NET obfuscator and a .NET code protection tool that offers protection against reverse engineering of your code.
