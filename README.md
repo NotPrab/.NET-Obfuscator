@@ -5,6 +5,7 @@
 ![.NET](https://www.mindphp.com/images/knowledge/IT/Microsoft_.NET_logo.png)
 
 * [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
+* [ConfuserEx 2](https://github.com/mkaring/ConfuserEx) - Updated ConfuserEx (by mkaring), an open-source, free obfuscator for .NET applications.
 * [NET Reactor](https://www.eziriz.com/) - NET Reactor is a powerful .NET code protection and software licensing system which completely stops any decompiling.
 * [Agile](https://secureteam.net/acode-features-detailed)- Agile.NET, Powerful Code Protection, Obfuscation, and Licensing Solution for your .NET Apps
 * [AppFuscator](https://appfuscator.com/) - Inteligence algorithm provide your application powerful protection! 
@@ -75,6 +76,23 @@ executable files for Windows.
 * [MPRESS](http://www.matcode.com/) - Free high-performance executable packer for PE32/PE32+/.NET executable formats!
 * [NETZ Compressor](https://github.com/madebits/msnet-netz-compressor) - 2004 .NETZ compresses Microsoft .NET executables 
 * [IntelliProtector](https://intelliprotector.com/Products/Net-Obfuscator/Features) - IntelliProtector .Net Obfuscator is excellent Free tool for your IntelliProtector .Net projects.
+* [DotNetSafer](https://dotnetsafer.com/) - Increase the security of your software, reduce costs and save time with the tools that dotnetsafer offers you to protect your intellectual property and guarantee the integrity of your .NET and .NET Core applications.
+* [VaporObfusactor](https://github.com/call-042PE/VaporObfuscator) - VaporObfuscator is an obfuscator for .net made with dnlib 
+* [MdCrypt](https://github.com/wwh1004/Mdcrypt) - [WIP] A next-generation protector for .NET applications (.NET Framework, .NET Core, and more) 
+* [AtomicProtector](https://discordapp.com/invite/SU8nHPM) - Antidecompiler,Anti-Decompiler,Antidecompile,Anti-ildasm,ildasm,ConfuserEx,obfuscate code,code encryption,string encryption,control flow,How To,Tutorial,obfuscator,free obfuscator,confuserex,hack,protector,.net protector,anti-source,anti-skids,c#,obfuscator,.net,security,code,programming,dotnet,il,confuser,confuserex,trinity obfuscator,trinity
+* [OctopusObfuscator](https://github.com/Alxs009/OctopusObfuscator) - Basic obfuscator for .NET
+* [cil-examining](https://github.com/mira-ta/cil-examining) - A .NET Framework (.NET Core in the future) obfuscator. Owner is currently out sick thus working on project is stopped.
+* [lookatme](https://github.com/pjc0247/lookatme) - NET Obfuscator for Studying purpose.
+* [Obfuscord](https://github.com/TobitoFatitoNulled/Obfuscord) - Obfuscates A file Through Discord as a Bot using Discord.Net Api
+* [SpecterObfuscator](https://github.com/xXeptioN/SpecterObfuscator/tree/master/Obfuscator) - This Application will obfuscate your .NET Assembly
+* [Denvelope](https://github.com/TWVyY3VyaW8K/Denvelope) - NET Obfuscator
+* [Arya](https://github.com/HarmJ0y/Arya) - Arya is a simple obfuscator for .NET binaries.
+* [.NET-Obfuscator](https://github.com/NightBaron/.NET-Obfuscator) - Simple .net obfuscator using Mono Cecil
+* [dotNetObfuscator](https://github.com/baskfx/dotNetObfuscator) - Обфускатор строки для C#
+* [DotNetPatcher(Source Code)](https://github.com/mwsrc/DotNetObfuscator) - DotNetObfuscator
+* [DarkFuscator](https://github.com/isigov/.NET-Obfuscator) - Code obfuscator for .NET framework programs. Outdated in 2016, but was very functional in 2010/2011.Uses the Mono.Cecil library for interacting with .NET assemblies. 
+* [obfuscatus](https://github.com/stschake/obfuscatus) - a .NET obfuscator based on mono cecil
+* [NetFuscate](http://netfuscate.com/) - NETFuscate is a .NET obfuscator and a .NET code protection tool that offers protection against reverse engineering of your code.
 * [JavaObfuscator](https://github.com/CodeOfDark/JavaObfuscator) - An open-source, free protector for Java applications using JavaResolver.
 * [Unikod](https://github.com/SDSkyKlouD/Unikod) - Text styling & obfuscation library for C# 
 * [Cheap Obfuscator](https://github.com/Polymeth/cheap-obfuscator) - a pretty bad obfuscator made to learn
