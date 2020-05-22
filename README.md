@@ -75,3 +75,13 @@ executable files for Windows.
 * [MPRESS](http://www.matcode.com/) - Free high-performance executable packer for PE32/PE32+/.NET executable formats!
 * [NETZ Compressor](https://github.com/madebits/msnet-netz-compressor) - 2004 .NETZ compresses Microsoft .NET executables 
 * [IntelliProtector](https://intelliprotector.com/Products/Net-Obfuscator/Features) - IntelliProtector .Net Obfuscator is excellent Free tool for your IntelliProtector .Net projects.
+* [JavaObfuscator](https://github.com/CodeOfDark/JavaObfuscator) - An open-source, free protector for Java applications using JavaResolver.
+* [Unikod](https://github.com/SDSkyKlouD/Unikod) - Text styling & obfuscation library for C# 
+* [Cheap Obfuscator](https://github.com/Polymeth/cheap-obfuscator) - a pretty bad obfuscator made to learn
+* [SourceCodeObfuscator](https://github.com/0x000N3X4N/SourceCodeObfuscator) - C# source code obfuscator
+* [ObfuscationAttributes](https://github.com/obfuscators-2019/ObfuscationAttributes) - Add watermarks of obfuscators, makes de4dot think your file is obfuscated. bad 2016 code, i dont recommend anyone uses it
+* [Confuser1337](https://github.com/ama6nen/Confuser1337) - bad 2016 code, i dont recommend anyone uses it
+* [pshield](https://github.com/developervariety/pshield) - Plugin-based obfuscator
+* [LUA-Bytecode-converter](https://github.com/FileEX/LUA-Bytecode-converter) - Convert lua code to bytecode. Examples in this convertes are for Multi Theft Auto, but converter works for any lua code. This also supported multi obfuscate (spam click button) 
+* [PAOfuscator](https://github.com/Schaboom/PAOfuscator) - Obfuscator für Paradise.de
+* [LuaObf](https://github.com/3wayHimself/LuaObf) - An Obfuscator for Basic Lua Code In C#
