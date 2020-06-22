@@ -103,7 +103,6 @@ Note : :white_check_mark: (the project still actively developed)
 - [Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) - Z00bfuscator is the simple, open-source, cross-platform obfuscator for .NET Assemblies built on .NET Core 
 - [Panda-Obfuscator](https://github.com/barotyson/Panda-Obfuscator) - PandaObfuscator an simple Obfuscator, free, OpenSource for .Net Applications 
 - [PEunion](https://github.com/bytecode77/pe-union) - PEunion (Binder, Crypter & Downloader)
-- [:white_check_mark: Isolated](https://github.com/Sato-Isolated/Isolated) - .NET Obfuscator & Protector
 - [Goldfuscator](https://github.com/AnErrupTion/Goldfuscator) - A fork of the original SimpleObfuscator project, made for training. 
 - [LoGic.NET](https://github.com/AnErrupTion/LoGiC.NET) - A more advanced free and open .NET obfuscator using dnlib.
 - [Neo ConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx) - Updated ConfuserEX, an open-source, free obfuscator for .NET applications
@@ -128,7 +127,7 @@ eer
 - [SourceCodeObfuscator](https://github.com/0x000N3X4N/SourceCodeObfuscator) - C# source code obfuscator
 - [pshield](https://github.com/developervariety/pshield) - Plugin-based obfuscator
 - [PAOfuscator](https://github.com/Schaboom/PAOfuscator) - Obfuscator für Paradise.de
-- [MindLated](https://github.com/Sato-Isolated/MindLated) - .NET obfuscator that uses dnlib
+- [:white_check_mark: MindLated](https://github.com/Sato-Isolated/MindLated) - .NET obfuscator that uses dnlib
 
 ## Contributing
 
