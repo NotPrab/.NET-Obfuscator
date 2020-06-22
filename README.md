@@ -1,6 +1,6 @@
 <p align ="center">
    <a href ="https://dotnet.microsoft.com/">
-     <img width ="256" height"256" src= "https://cdn.windowsreport.com/wp-content/uploads/2020/03/KQDg3O.png">
+     <img width ="256" height="256" src= "https://cdn.windowsreport.com/wp-content/uploads/2020/03/KQDg3O.png">
    </a>
    
    <h1 align="center">.NET Obfuscator Lists</h1>
@@ -128,6 +128,7 @@ eer
 - [SourceCodeObfuscator](https://github.com/0x000N3X4N/SourceCodeObfuscator) - C# source code obfuscator
 - [pshield](https://github.com/developervariety/pshield) - Plugin-based obfuscator
 - [PAOfuscator](https://github.com/Schaboom/PAOfuscator) - Obfuscator für Paradise.de
+- [MindLated](https://github.com/Sato-Isolated/MindLated) - .NET obfuscator that uses dnlib
 
 ## Contributing
 
