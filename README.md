@@ -90,7 +90,7 @@ Note : :white_check_mark: (the project still actively developed)
 - [AsStrongAsFuck](https://github.com/Charterino/AsStrongAsFuck) - A console obfuscator for .NET assemblies.
 - [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
 - [:white_check_mark: ConfuserEx 2](https://github.com/mkaring/ConfuserEx) - Updated ConfuserEx (by mkaring), an open-source, free obfuscator for .NET applications. 
-- [:white_check_mark: DotNetPatcher](https://github.com/3DotDev/DotNetPatcher) - DNP is a Obfuscator/Packer which use MonoCecil library for .NET applications ! It doesn't support WPF app !
+- [DotNetPatcher](https://github.com/3DotDev/DotNetPatcher) - DNP is a Obfuscator/Packer which use MonoCecil library for .NET applications ! It doesn't support WPF app !
 - [Krawk Protector](https://github.com/cristlxrd/Krawk-Protector) - .NET Obfuscator and Protector 
 - [KoiVM](https://github.com/Loksie/KoiVM-Virtualization) - Virtualization made for .NET using ConfuserEX 
 - [MemeVM](https://github.com/TobitoFatitoNulled/MemeVM) - A small virtualizer for .NET which works together with ConfuserEx 
@@ -109,7 +109,8 @@ Note : :white_check_mark: (the project still actively developed)
 eer 
 - [Dotpack](https://github.com/daeken/Dotpack/) - Extreme (TM) binary packer for .NET 
 - [NETZ Compressor](https://github.com/madebits/msnet-netz-compressor) - 2004 .NETZ compresses Microsoft .NET executables 
-- [:white_check_mark: VaporObfusactor](https://github.com/call-042PE/VaporObfuscator) - VaporObfuscator is an obfuscator for .net made with dnlib 
+- [:white_check_mark: NashaVM](https://github.com/Mrakovic-ORG/NashaVM) - Nasha is a Virtual Machine for .NET files and its runtime was made in C++/CLI
+- [VaporObfusactor](https://github.com/call-042PE/VaporObfuscator) - VaporObfuscator is an obfuscator for .net made with dnlib 
 - [:white_check_mark: MdCrypt](https://github.com/wwh1004/Mdcrypt) - [WIP] A next-generation protector for .NET applications (.NET Framework, .NET Core, and more) 
 - [OctopusObfuscator](https://github.com/Alxs009/OctopusObfuscator) - Basic obfuscator for .NET
 - [cil-examining](https://github.com/mira-ta/cil-examining) - A .NET Framework (.NET Core in the future) obfuscator. Owner is currently out sick thus working on project is stopped.
