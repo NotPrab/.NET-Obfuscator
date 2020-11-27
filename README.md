@@ -79,7 +79,7 @@ In Generally, an Obfuscator is a tool used to increase the security of a program
 - [NetFuscate](http://netfuscate.com/) - NETFuscate is a .NET obfuscator and a .NET code protection tool that offers protection against reverse engineering of your code.
 - [Orange Heap obfuscator](http://orangeheap.blogspot.com/) - free and efficient way to protect your .NET software
 - [Phoenix Protector](https://ntcore.com/?page_id=384) - .NET Obfuscator & Protector
-- [Semantic Designs](http://www.semdesigns.com/products/obfuscators/csharpobfuscator.html) - The C# Obfuscator tool scrambles C# source code to make it very difficult to understand or reverse-engin
+- [Semantic Designs](http://www.semdesigns.com/Products/Obfuscators/CSharpObfuscator.html) - The C# Obfuscator tool scrambles C# source code to make it very difficult to understand or reverse-engin
 - [SharpObfuscator](https://archive.codeplex.com/?p=sharpobfuscator) - It is a Software Protection tool, designed to help .NET developers efficiently protect their software. It will obfuscate and protect your .NET code, optimize your .NET assembly for better deployment, minimize distribution size, increase performance & add powerful post-deployment debugging capabilities.
 - [Yano](https://yano.informer.com/) - Yano is an advanced obfuscator for Microsoft .NET applications 
 
@@ -91,7 +91,6 @@ Note : :white_check_mark: (the project still actively developed)
 - [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
 - [:white_check_mark: ConfuserEx 2](https://github.com/mkaring/ConfuserEx) - Updated ConfuserEx (by mkaring), an open-source, free obfuscator for .NET applications. 
 - [DotNetPatcher](https://github.com/3DotDev/DotNetPatcher) - DNP is a Obfuscator/Packer which use MonoCecil library for .NET applications ! It doesn't support WPF app !
-- [Krawk Protector](https://github.com/cristlxrd/Krawk-Protector) - .NET Obfuscator and Protector 
 - [KoiVM](https://github.com/Loksie/KoiVM-Virtualization) - Virtualization made for .NET using ConfuserEX 
 - [MemeVM](https://github.com/TobitoFatitoNulled/MemeVM) - A small virtualizer for .NET which works together with ConfuserEx 
 - [Noisette](https://github.com/XenocodeRCE/Noisette-Obfuscator) - An Obfuscator for .NET assembly 
@@ -115,7 +114,7 @@ eer
 - [OctopusObfuscator](https://github.com/Alxs009/OctopusObfuscator) - Basic obfuscator for .NET
 - [cil-examining](https://github.com/mira-ta/cil-examining) - A .NET Framework (.NET Core in the future) obfuscator. Owner is currently out sick thus working on project is stopped.
 - [lookatme](https://github.com/pjc0247/lookatme) - NET Obfuscator for Studying purpose.
-- [Obfuscord](https://github.com/TobitoFatitoNulled/Obfuscord) - Obfuscates A file Through Discord as a Bot using Discord.Net Api
+- [Obfuscord](https://github.com/JReverse/Obfuscord) - Obfuscates A file Through Discord as a Bot using Discord.Net Api
 - [SpecterObfuscator](https://github.com/xXeptioN/SpecterObfuscator/tree/master/Obfuscator) - This Application will obfuscate your .NET Assembly
 - [Denvelope](https://github.com/TWVyY3VyaW8K/Denvelope) - NET Obfuscator
 - [Arya](https://github.com/HarmJ0y/Arya) - Arya is a simple obfuscator for .NET binaries.
