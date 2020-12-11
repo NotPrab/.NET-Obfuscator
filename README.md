@@ -1,14 +1,6 @@
-<p align ="center">
-   <a href ="https://dotnet.microsoft.com/">
-     <img width ="256" height="256" src= "https://cdn.windowsreport.com/wp-content/uploads/2020/03/KQDg3O.png">
-   </a>
-   
-   <h1 align="center">.NET Obfuscator Lists</h1>
-</p>
+# .NET Obfuscator
 
-# Introduction
-
-## 1) What is .NET Obfuscator?
+ Lists of .NET Obfuscator
  
 ![.NET](https://www.mindphp.com/images/knowledge/IT/Microsoft_.NET_logo.png)
 
