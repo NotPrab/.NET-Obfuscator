@@ -4,12 +4,26 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/NotPrab/.NET-Obfuscator?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/NotPrab/.NET-Obfuscator?style=for-the-badge)
 
-# .NET Obfuscator
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/NotPrab/.NET-Obfuscator">
+    <img src="https://www.kitto.app/image/logo-microsoft-net.png" alt="Logo" width="238" height="238">
+  </a>
 
- Lists of .NET Obfuscator
+  <h3 align="center">.NET Obfuscator</h3>
+
+  <p align="center">
+    💻 🎉  Awesome lists about all kinds of interesting .NET Obfuscator.
+    <br />
+    <a href="https://github.com/NotPrab/.NET-Obfuscator/discussions">Discussions</a>
+    ·
+    <a href="https://github.com/NotPrab/.NET-Obfuscator/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/NotPrab/.NET-Obfuscator/pulls">Request Feature</a>
+  </p>
+</p>
  
-![.NET](https://www.mindphp.com/images/knowledge/IT/Microsoft_.NET_logo.png)
-
 * [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
 * [ConfuserEx 2](https://github.com/mkaring/ConfuserEx) - Updated ConfuserEx (by mkaring), an open-source, free obfuscator for .NET applications.
 * [NET Reactor](https://www.eziriz.com/) - NET Reactor is a powerful .NET code protection and software licensing system which completely stops any decompiling.
@@ -63,7 +77,7 @@ executable files for Windows.
 * [BitHelmet](https://bithelmet.software.informer.com/) - BitHelmet obfuscator protects your .NET Portable Executables 
 * [Yano](https://yano.informer.com/) - Yano is an advanced obfuscator for Microsoft .NET applications 
 * [Neo ConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx) - Updated ConfuserEX, an open-source, free obfuscator for .NET applications
-* [NetShields](https://discord.gg/sfyxnZfHSG) - A really strong & recommended for .NET Obfuscator
+* [NetShields](https://discord.gg/baVPenN) - A really strong & recommended for .NET Obfuscator
 * [Demeanor](http://www.wiseowl.com/products/products.aspx) - Demeanor for.NET protects your intellectual property by making it extremely difficult to reverse engineer your .NET applications.
 * [Deploylx](http://xheo.com/products/code-protection) - DeployLX CodeVeil was the first to offer .NET assembly encryption. Now with advanced runtime injection, API redirects and just-in-time decryption, protected applications are never decrypted in memory.
 * [Semantic Designs](http://www.semdesigns.com/products/obfuscators/csharpobfuscator.html) - The C# Obfuscator tool scrambles C# source code to make it very difficult to understand or reverse-engineer 
