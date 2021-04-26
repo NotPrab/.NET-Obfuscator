@@ -192,6 +192,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ### Dotpack
 
 * [Dotpack](https://github.com/daeken/Dotpack/) - Extreme (TM) binary packer for .NET 
+### DCNETProtector
+
+* [DCNETProtector](https://github.com/dcsoft-yyf/DCNETProtector) - An open source tool to encrypt .NET assembly file, help people protect theirs copyright. It has a command line interface and some specific features. It claims to have only 6000 lines of code.
 ------------------
 <!-- E -->
 ## E =>
