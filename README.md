@@ -121,6 +121,7 @@ As you can see, the obfuscated code is much harder to understand and follow, mak
 * [Aldaray Rummage Obfuscator](https://www.aldaray.com/) - Tie your code into knots and make the hackers cry
 * [AppFuscator](https://appfuscator.com/) - Inteligence algorithm provide your application powerful protection! 
 * [ArmDot](https://www.armdot.com/) - Protection, software licensing tool, and obfuscator for C# and .Net with support of serial keys and files embedding
+* [ByteHide](https://www.bytehide.com/products/shield-obfuscator/dotnet) - ByteHide provides .NET obfuscator to companies and organizations. Providing a set of tools that protect your intellectual property, ensure the integrity of your software and reducing costs.
 * [Babel](https://www.babelfor.net/) - Protect your software against reverse engineering to safeguard the intellectual property of your code
 * [BoxedApp](https://www.boxedapp.com/) - Import and virtualize ActiveX, Flash and .Net runtime • Rich SDK for developers • Create custom packers • Supports both 32-bit and 64-bit applications • Virtual file system and registry
 * [Crypto](https://www.ssware.com/cryptoobfuscator/obfuscator-net.htm) - Powerful Obfuscation & Code Protection For .Net That Actually Works!
@@ -144,7 +145,6 @@ executable files for Windows.
 ### Paid
 * [Cyphor](https://cyphor.net/details) - Cyphor is more than just an obfuscator. Cyphor is the best, fastest, and most reliable obfuscation protection tool to work with.
 * [DNGuard HVM](http://www.dnguard.net/index.php) - Advanced .NET Code Protection and Obfuscation Technology
-* [DotNetSafer](https://dotnetsafer.com/) - Increase the security of your software, reduce costs and save time with the tools that dotnetsafer offers you to protect your intellectual property and guarantee the integrity of your .NET and .NET Core applications.
 * [Obfuscator.NET 2009](http://www.macrobject.com/en/obfuscator/index.htm) - Protect your .NET assembly
 * [PV Logiciels dotNet Protector](http://www.pvlog.com/) - PV Logiciels dotNet Protector is a powerful .NET code protection system that prevents your assemblies from being decompiled.
 * [SEEUNSHARP](https://seeunsharp.net/obfuscator/en) - Have a sophisticated .NET solution?And very curious competitors?Got something valuable to hide?Take action and protect your investment!
