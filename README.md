@@ -75,7 +75,7 @@
 * [Agile](https://secureteam.net/acode)- Agile.NET, Powerful Code Protection, Obfuscation, and Licensing Solution for your .NET Apps
 * [Aldaray Rummage Obfuscator](https://www.aldaray.com/) - Tie your code into knots and make the hackers cry
 * [AppFuscator](https://appfuscator.com/) - Inteligence algorithm provide your application powerful protection! 
-* [ArmDot](https://www.armdot.com/) - Protection, software licensing tool, and obfuscator for C# and .Net with support of serial keys and files embedding
+* [ArmDot](https://www.softanics.com/armdot) - Protection, software licensing tool, and obfuscator for C# and .Net with support of serial keys and files embedding
 * [ByteHide](https://www.bytehide.com/products/shield-obfuscator/dotnet) - ByteHide provides .NET obfuscator to companies and organizations. Providing a set of tools that protect your intellectual property, ensure the integrity of your software and reducing costs.
 * [Babel](https://www.babelfor.net/) - Protect your software against reverse engineering to safeguard the intellectual property of your code
 * [BoxedApp](https://www.boxedapp.com/) - Import and virtualize ActiveX, Flash and .Net runtime • Rich SDK for developers • Create custom packers • Supports both 32-bit and 64-bit applications • Virtual file system and registry
