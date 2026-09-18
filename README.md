@@ -91,7 +91,7 @@ executable files for Windows.
 * [MancoSoftware](https://en.freedownloadmanager.org/Windows-PC/Manco-NET-Obfuscator.html) - Manco .NET Licensing System is the powerful licensing and copy protection software for .NET Windows Forms, WPF, WCF, WWF and ASP.NET applications, controls and components.
 * [netshrink](https://www.pelock.com/products/netshrink) - netshrink is an exe packer aka executable compressor, application password protector and virtual DLL binder for Windows & Linux .NET applications.
 * [NET Reactor](https://www.eziriz.com/) - NET Reactor is a powerful .NET code protection and software licensing system which completely stops any decompiling.
-* [Skater .NET Obfuscator](http://rustemsoft.com/obfuscator.aspx) - Rustemsoft proposes Skater .NET Obfuscator, an obfuscation tool for .NET code protection. It implements all known software protection techniques and obfuscation algorithms.
+* [Skater .NET Obfuscator](https://skaterpro.net) - Skater .NET Obfuscator - Long‑established .NET obfuscator providing IL code protection and anti‑decompilation. It implements all known software protection techniques and obfuscation algorithms.
 * [SmartAssembly](https://www.red-gate.com/products/dotnet-development/smartassembly/) - Protect your .NET code and IP with SmartAssembly
 * [StrongVM](https://github.com/Modify24x7/StrongVM) - StrongVM is a virtualizing protector for .NET applications.
 * [Spices](https://www.9rays.net/Category/55-spicesnet-obfuscator.aspx) - Spices.Net Obfuscator is a .Net code obfuscation, protection and optimization tool that offers the wide range of technologies to completely protect your .Net code and secure your data.
